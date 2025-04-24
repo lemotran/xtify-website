@@ -30,3 +30,6 @@ Xtify isn't just an IPTV player; it's your gateway to a smarter, more delightful
 
 > *Your entertainment, amplified.* ✨
 
+---
+### Lemo Studio
+Contact us: info@lemo.studio
